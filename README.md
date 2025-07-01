@@ -2,5 +2,6 @@
 Add the folder named "TU_DMagic Science" to your GameData folder.
 
 # Dependencies
-DMagicOrbital Science
-Textures Unlimited
+- Module Manager
+- DMagicOrbital Science
+- Textures Unlimited Recolor Depot
